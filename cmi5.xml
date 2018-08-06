@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<courseStructure xmlns="https://w3id.org/xapi/profiles/cmi5/v1/CourseStructure.xsd">
+	<course id="ispring://presentations/B9D421BD-2F9F-471A-8DC7-EA17C654EE3F">
+		<title>
+			<langstring lang="en-US">Addictive substances -Basics (13-7-18)_editrao</langstring>
+		</title>
+		<description>
+			<langstring lang="en-US"/>
+		</description>
+	</course>
+	<au id="ispring://presentations/B9D421BD-2F9F-471A-8DC7-EA17C654EE3F/presentation" launchMethod="AnyWindow" moveOn="CompletedAndPassed" masteryScore="0.0000">
+		<title>
+			<langstring lang="en-US">Addictive substances -Basics (13-7-18)_editrao</langstring>
+		</title>
+		<description>
+			<langstring lang="en-US"/>
+		</description>
+		<url>res/index.html</url>
+	</au>
+</courseStructure>
